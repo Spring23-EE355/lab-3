@@ -1,4 +1,4 @@
-g++ lab3.cpp -o code.o
+g++ *lab3.cpp -o code.o
 ./code.o
 
 for i in `seq 1 2`
